@@ -1,0 +1,6 @@
+*.class
+*.ctxt
+/sounds
+/images
+*.greenfoot
+*.TXT
